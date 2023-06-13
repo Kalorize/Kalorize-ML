@@ -12,6 +12,8 @@ We created food recommendation from nutrient that needed. From questionnare that
 
 ### References
 
+- [Nutrition Diet Recommendation System](https://iaeme.com/MasterAdmin/Journal_uploads/IJARET/VOLUME_11_ISSUE_12/IJARET_11_12_272.pdf)
+
 ## Height, Weight And Gender Prediction From Face
 
 Predicting height, weight, and gender from a face alone is a complex task that relies on various factors and approaches. While facial features can provide some clues about these attributes, they are not solely determinative, and other factors such as genetics, body composition, and lifestyle also play significant roles.
